@@ -1,6 +1,7 @@
-# 运维脚本通用忽略规则
+# 运维脚本标准忽略规则
 *.log
 *.tmp
-*.swp
 .env
 config.ini
+.DS_Store
+/test_data/
