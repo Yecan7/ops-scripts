@@ -1,0 +1,6 @@
+# 运维脚本通用忽略规则
+*.log
+*.tmp
+*.swp
+.env
+config.ini
